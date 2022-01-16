@@ -1,0 +1,13 @@
+{
+  "name": "zafarjonovich/yii-telegram-notification",
+  "description": "Yii telegram notification",
+  "type": "package",
+  "autoload": {
+    "psr-4": {
+      "zafarjonovich\\YiiTelegramNotification\\": "src"
+    }
+  },
+  "require": {
+    "zafarjonovich/telegram": "*"
+  }
+}
