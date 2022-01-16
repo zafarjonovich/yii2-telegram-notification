@@ -1,4 +1,4 @@
-# Yii safe exception
+# Yii telegram notification
 
 Assalomu aleykum. These components will help you send message notifications to telegram chats via telegram bots on your Yii application.
 
